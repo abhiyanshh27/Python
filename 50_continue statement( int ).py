@@ -1,0 +1,8 @@
+i = 10
+while i>0:
+    i = i - 1
+    if i==5:
+        continue
+    print("Current variable value:",i)
+
+print("Good bye!")
